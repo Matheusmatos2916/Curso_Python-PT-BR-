@@ -1,4 +1,4 @@
-##Curso de Python - Mundo 1 e 2
+# Curso de Python - Mundo 1 e 2
 
 Este é um repositório para o Curso de Python do Curso em Vídeo, um curso online gratuito de Python ministrado pelo professor Gustavo Guanabara. O curso é composto por mais de 100 aulas em vídeo que cobrem desde o básico até tópicos mais avançados, como orientação a objetos e programação web.
 
